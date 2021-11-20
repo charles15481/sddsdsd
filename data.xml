@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="AL32UTF8" ?>
+<s_data>
+<student>
+<name>القسم الاول</name>
+<link>https://www.google.com</link>
+</student>
+<student>
+<name>القسم الثاني</name>
+<link>https://www.arabcg.com</link>
+</student>
+<student>
+<name>القسم الثالث</name>
+<link>https://www.yahoo.com</link>
+</student>
+<student>
+<name>القسم الرابع</name>
+<link>https://www.bing.com</link>
+</student>
+  <student>
+  <name>القسم الخامس</name>
+   <link>https://vidoza.net/</link>
+  </student>
+   <student>
+  <name>القسم السادس</name>
+   <link>https://torrentz.pl/</link>
+  </student>
+   <student>
+  <name>القسم السابع</name>
+   <link>https://www.google.com</link>
+  </student>
+    <student>
+  <name>القسم الثامن</name>
+   <link>https://www.google.com.eg </link>
+  </student>
+</s_data>
+
